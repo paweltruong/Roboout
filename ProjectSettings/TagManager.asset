@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2383316501
+    locked: 0
+  - name: MapEvents
+    uniqueID: 2483948807
+    locked: 0
+  - name: Robot B Arms
+    uniqueID: 2947703943
+    locked: 0
+  - name: Robot B Legs
+    uniqueID: 1392268863
+    locked: 0
+  - name: RobotInside
+    uniqueID: 3135388283
+    locked: 0
+  - name: RobotBody
+    uniqueID: 1943080795
+    locked: 0
+  - name: RobotUtils
+    uniqueID: 3351493043
+    locked: 0
+  - name: Robots
+    uniqueID: 3387899589
+    locked: 0
+  - name: Robot F Legs
+    uniqueID: 1999710605
+    locked: 0
+  - name: RobotHead
+    uniqueID: 3659673435
+    locked: 0
+  - name: Robor F Arms
+    uniqueID: 3210250319
+    locked: 0
+  - name: RoboEffects
+    uniqueID: 1516032257
+    locked: 0
+  - name: MapUI
+    uniqueID: 2662284997
+    locked: 0
+  - name: UI
+    uniqueID: 596041893
+    locked: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 89e7faf257e20ec4f98844f03decc6b8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Digital-7 Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4964019c339bdbe4b9d0d57996d07ab5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

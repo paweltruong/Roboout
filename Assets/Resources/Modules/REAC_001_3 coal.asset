@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157bc24512ec5ba49a255cc3048dd39c, type: 3}
+  m_Name: REAC_001_3 coal
+  m_EditorClassIdentifier: 
+  ModuleName: Coal
+  Key: 2001
+  Desc: 
+  Slot: 1
+  Rank: 3
+  SellValue: 10
+  BuyVallue: 10
+  MaxBoltsDrop: 15
+  NextRank: {fileID: 0}
+  PowerCost: 0
+  UpgradeCost: 30
+  Quality: 1
+  Usage: 1
+  Animation: 5
+  AllowedTargets: 01000000
+  DiceToActivate: 6
+  DamageThermal: 0
+  DamageKinetic: 0
+  DamageKineticCleave: 0
+  DisableRandomForXTurns: 0
+  ReduceXPower: 0
+  ReducePowerForXTurns: 0
+  BlockStrength: 0
+  HpForEnemy: 0
+  BonusMaxHp: 0
+  BonusShield: 0
+  BonusScavenging: 0
+  BonusSalvaging: 0
+  BonusHpRegen: 2
+  BonusDamageThermal: 0
+  BonusDamageKinetic: 0
+  RevealHpAndModules: 0
+  RevealDungeonInfo: 0
+  BonusArmor: 0
+  RegenPowerAfterKill: 0
+  ProcessorOverclock: 0

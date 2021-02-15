@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb5315d3bd7b66d4e8910ec88c840a79, type: 3}
+  m_Name: ENE004
+  m_EditorClassIdentifier: 
+  EnemyName: EnemyDebug
+  drops: []
+  Mainframe: {fileID: 11400000, guid: 97b8df663b16af048a9313a8ba59bb52, type: 2}
+  reactors:
+  - {fileID: 11400000, guid: 03f37101932e5c043b24489f5b124d05, type: 2}
+  heads:
+  - {fileID: 11400000, guid: 02838d9a52707394c828d3bf8b276479, type: 2}
+  arms:
+  - {fileID: 11400000, guid: 9181a5edbb082ef478746824db2fa947, type: 2}
+  - {fileID: 11400000, guid: 9fd1633ca5be7e24d813760d35ab35d5, type: 2}
+  legs:
+  - {fileID: 11400000, guid: a1b0ca6dcc0047d42bd420ac28424188, type: 2}
+  - {fileID: 11400000, guid: a1b0ca6dcc0047d42bd420ac28424188, type: 2}
+  utilities: []

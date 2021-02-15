@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885fb1741ff45214aae6eb49b93d0ba0, type: 3}
+  m_Name: AssetRepository
+  m_EditorClassIdentifier: 
+  PreviewSprites:
+  - moduleKey: 1
+    Sprite: {fileID: 21300000, guid: bb516c783aff249478d1bbfbfded4d01, type: 3}
+  - moduleKey: 3
+    Sprite: {fileID: 21300000, guid: 4ece08e0a2d6b614bb47536b35ddd3df, type: 3}
+  - moduleKey: 1000
+    Sprite: {fileID: 21300000, guid: 4d0a5c33247f9ca429a6285f8367490b, type: 3}
+  - moduleKey: 1003
+    Sprite: {fileID: 21300000, guid: 3fc191690ea2045408a6a34a6ff7b2cc, type: 3}
+  - moduleKey: 1009
+    Sprite: {fileID: 21300000, guid: 40b299079e8fecd4da9f772a7e3d5806, type: 3}
+  - moduleKey: 3001
+    Sprite: {fileID: 21300000, guid: 1dd1f1d29f39319489749428603f2c30, type: 3}
+  - moduleKey: 2001
+    Sprite: {fileID: 21300000, guid: 5e952dd0b20236c409ff3f517c582231, type: 3}
+  - moduleKey: 1004
+    Sprite: {fileID: 21300000, guid: 5712c8ad50b1986458743b5b958359e5, type: 3}
+  - moduleKey: 1007
+    Sprite: {fileID: 21300000, guid: fe631efe23baa9b40bd071da091fc54c, type: 3}
+  - moduleKey: 3004
+    Sprite: {fileID: 21300000, guid: e17546246a14a304daec0f873940d0a5, type: 3}
+  defaultMainframe: {fileID: 11400000, guid: 97b8df663b16af048a9313a8ba59bb52, type: 2}
+  defaultReactors:
+  - {fileID: 11400000, guid: 03f37101932e5c043b24489f5b124d05, type: 2}
+  defaultHeads:
+  - {fileID: 11400000, guid: 49d16d57b9b997045835de8a0d761909, type: 2}
+  defaultArms:
+  - {fileID: 11400000, guid: 0529e115762b7d247bf6c45aa3c43ad3, type: 2}
+  defaultLegs:
+  - {fileID: 11400000, guid: a1b0ca6dcc0047d42bd420ac28424188, type: 2}
+  - {fileID: 11400000, guid: a1b0ca6dcc0047d42bd420ac28424188, type: 2}

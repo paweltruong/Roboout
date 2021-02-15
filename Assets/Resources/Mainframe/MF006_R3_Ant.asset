@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b01ba0c84dad5d84b90b6a031fa55012, type: 3}
+  m_Name: MF006_R3_Ant
+  m_EditorClassIdentifier: 
+  MainframeName: Ant
+  Desc: 
+  Rank: 3
+  MaxBoltsDrop: 30
+  Type: 6
+  BaseScavenging: 0.2
+  BaseSalvaging: 1
+  BaseHp: 12
+  BaseArmor: 0
+  ProcessorCores: 1
+  StorageSlots: 2
+  UtilitySlots: 2
+  HeadSlots: 1
+  ArmSlots: 2
+  LegSlots: 2
+  ReactorSlots: 1

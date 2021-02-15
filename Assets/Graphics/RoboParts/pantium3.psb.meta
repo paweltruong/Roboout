@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: b9eec4ac44099584c946ec7b378e27a8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: leg plug F
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 65
+      width: 11
+      height: 14
+    spriteID: 40d787ce58ff3f249a6f44c91ac35718
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 15, y: 24}
+  - name: Layer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 247
+      width: 0
+      height: 0
+    spriteID: e46863a4293045a4e82f12a18b1a7c56
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -132, y: 0}
+  - name: hip util plug
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 239
+      width: 11
+      height: 13
+    spriteID: 1a65a14ea7ef1f04391e0c6fe6255f60
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -46, y: 181}
+  - name: chest util plug
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 11
+      height: 13
+    spriteID: 6a6929610b2a00743b6ed540d09fc9e0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 8, y: -144}
+  - name: Chestpocket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 217
+      width: 16
+      height: 28
+    spriteID: 3d64db218745f9542a8d676ee8d630bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: 76}
+  - name: arm plug F
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 217
+      width: 12
+      height: 14
+    spriteID: c81f853367b194044ab7444641755739
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2, y: 26}
+  - name: chest
+    originalName: 
+    pivot: {x: 0.50360984, y: 0.024220526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 70
+      height: 111
+    spriteID: c69aabbdb9d34a14d829659a7783a2fe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -39, y: -92}
+  - name: neck
+    originalName: 
+    pivot: {x: 0.3024384, y: 0.2300395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 186
+      width: 20
+      height: 23
+    spriteID: 7306f000c6bbee64c848bb12764e736a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -73, y: 1}
+  - name: FrontPocket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 186
+      width: 19
+      height: 22
+    spriteID: 48a10a67807c9a24fbcc2d024981e232
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -58, y: 133}
+  - name: Backpocket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 217
+      width: 13
+      height: 22
+    spriteID: 9e8a53d80497f3c478ca39b30d5e5e14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -24, y: 165}
+  - name: hip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 123
+      width: 57
+      height: 55
+    spriteID: aa0d228a37672f74f83be04146296ad7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -48, y: 88}
+  - name: Belt spring
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 25
+      width: 18
+      height: 10
+    spriteID: cfa9e3b8bd76e1e45b1ff77ded6d5005
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 12, y: -62}
+  - name: Belt Spring BG
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 19
+      height: 13
+    spriteID: 254dfa99e0afdc247a565f88a2a445f5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 12, y: -82}
+  - name: leg plug B
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 87
+      width: 11
+      height: 14
+    spriteID: d671d4037561c28409d84995f7bb7771
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6, y: 44}
+  - name: arm plug B
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 43
+      width: 12
+      height: 14
+    spriteID: dae4165df669e4c40a06b8fb24e37083
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 24, y: -149}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 128
+  importedTextureHeight: 256
+  documentSize: {x: 160, y: 247}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 128
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: leg plug F
+    spriteName: leg plug F
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40d787ce58ff3f249a6f44c91ac35718
+    layerID: 0
+    mosaicPosition: {x: 82, y: 65}
+  - name: Layer
+    spriteName: Layer
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e46863a4293045a4e82f12a18b1a7c56
+    layerID: -1779155193
+    mosaicPosition: {x: 28, y: 247}
+  - name: hip util plug
+    spriteName: hip util plug
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a65a14ea7ef1f04391e0c6fe6255f60
+    layerID: 1810795135
+    mosaicPosition: {x: 49, y: 239}
+  - name: chest util plug
+    spriteName: chest util plug
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a6929610b2a00743b6ed540d09fc9e0
+    layerID: -1556073073
+    mosaicPosition: {x: 109, y: 4}
+  - name: Chestpocket
+    spriteName: Chestpocket
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3d64db218745f9542a8d676ee8d630bc
+    layerID: 1482210255
+    mosaicPosition: {x: 4, y: 217}
+  - name: arm plug F
+    spriteName: arm plug F
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c81f853367b194044ab7444641755739
+    layerID: 2085699726
+    mosaicPosition: {x: 49, y: 217}
+  - name: chest
+    spriteName: chest
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c69aabbdb9d34a14d829659a7783a2fe
+    layerID: -696947699
+    mosaicPosition: {x: 4, y: 4}
+  - name: neck
+    spriteName: neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7306f000c6bbee64c848bb12764e736a
+    layerID: -2081059649
+    mosaicPosition: {x: 4, y: 186}
+  - name: FrontPocket
+    spriteName: FrontPocket
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 48a10a67807c9a24fbcc2d024981e232
+    layerID: -1523028109
+    mosaicPosition: {x: 32, y: 186}
+  - name: Backpocket
+    spriteName: Backpocket
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e8a53d80497f3c478ca39b30d5e5e14
+    layerID: 855633709
+    mosaicPosition: {x: 28, y: 217}
+  - name: hip
+    spriteName: hip
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa0d228a37672f74f83be04146296ad7
+    layerID: 339799193
+    mosaicPosition: {x: 4, y: 123}
+  - name: Belt spring
+    spriteName: Belt spring
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cfa9e3b8bd76e1e45b1ff77ded6d5005
+    layerID: 1286401084
+    mosaicPosition: {x: 82, y: 25}
+  - name: Belt Spring BG
+    spriteName: Belt Spring BG
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 254dfa99e0afdc247a565f88a2a445f5
+    layerID: 1869754051
+    mosaicPosition: {x: 82, y: 4}
+  - name: leg plug B
+    spriteName: leg plug B
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d671d4037561c28409d84995f7bb7771
+    layerID: 924105176
+    mosaicPosition: {x: 82, y: 87}
+  - name: arm plug B
+    spriteName: arm plug B
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dae4165df669e4c40a06b8fb24e37083
+    layerID: -239899102
+    mosaicPosition: {x: 82, y: 43}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: pantium3 Texture
+  prefabAssetName: pantium3 Prefab
+  spriteLibAssetName: pantium3 Sprite Lib
+  secondarySpriteTextures: []

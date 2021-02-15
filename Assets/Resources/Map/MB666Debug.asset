@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c2b5b98a10e3ea4e870f080e2c6d2e4, type: 3}
+  m_Name: MB666Debug
+  m_EditorClassIdentifier: 
+  BlueprintName: Map01
+  Desc: 
+  startingEncounterIndex: 0
+  encounters:
+  - {fileID: 11400000, guid: 2338c2fb0ee116043b2b5edd275d56cd, type: 2}
+  - {fileID: 11400000, guid: 3ac3da798771f1c45b8118d3bd360059, type: 2}
+  - {fileID: 11400000, guid: e94d586b09996a849a2d1e2484940153, type: 2}
+  - {fileID: 11400000, guid: e6796ed85ac090d44a703bffa72ec73a, type: 2}
+  - {fileID: 11400000, guid: a8d5399643efb944dbb14a8d6cc382c2, type: 2}
+  - {fileID: 11400000, guid: 4aa7bd537ac13654696e79a436156890, type: 2}
+  - {fileID: 11400000, guid: 37536610e1e910546b386d4777b89393, type: 2}
+  - {fileID: 11400000, guid: e7e1d461f3d6d3c48a5a97406fdf75fa, type: 2}
+  - {fileID: 11400000, guid: 1fd95b1366dd72144b798b0bfaa2ce02, type: 2}
+  - {fileID: 11400000, guid: 6dfc7b99e1db1b74ba34a8dc8031216b, type: 2}
+  - {fileID: 11400000, guid: d0130e4a250e23c4f82faa0cf9bf08ba, type: 2}
+  - {fileID: 11400000, guid: 627e7c62123c0a54494f9bcbeee7ff92, type: 2}
+  - {fileID: 11400000, guid: 8325c91d80d615a4bbfbd214b9ce6751, type: 2}
+  - {fileID: 11400000, guid: 3333e9f4fff2cbf4299e9885cd576912, type: 2}
+  - {fileID: 11400000, guid: 06afe401b20ad0b4abd97f685b7a4863, type: 2}
+  - {fileID: 11400000, guid: e317d71e95e03f54ea065bfb0a8493d9, type: 2}
+  - {fileID: 11400000, guid: b3f510a3a1e122d4d9146925473aa765, type: 2}
+  - {fileID: 11400000, guid: 557c1855645a5bd43baa033a3666d4a3, type: 2}
+  - {fileID: 11400000, guid: 50c782cc717597f4eb7f0b3e0e101358, type: 2}
+  - {fileID: 11400000, guid: e9bde3b1be1465242bf05e9b79b7ac76, type: 2}
+  minGoals: 1
+  maxGoals: 0
+  minMainframe: 1
+  maxMainframe: 2
+  minMarket: 1
+  maxMarket: 2
+  minWorkshop: 1
+  maxWorkshop: 2
+  minPowerstation: 1
+  maxPowerstation: 2
+  dangers_D01:
+  - {fileID: 11400000, guid: c5f02d2891a7d3148a9530cda31e32b2, type: 2}
+  dangers_D02: []
+  dangers_D03: []
+  dangers_D04: []
+  dangers_D05: []
+  dangers_D06: []
+  dangers_D07: []
+  dangers_D08: []
+  dangers_D09: []
+  dangers_D10: []
+  bosses_D01:
+  - {fileID: 11400000, guid: cf683adee80b3f344bb21dc6ed7c60a8, type: 2}
+  bosses_D02: []
+  bosses_D03: []
+  bosses_D04: []
+  bosses_D05: []
+  bosses_D06: []
+  bosses_D07: []
+  mainframe_D01:
+  - {fileID: 11400000, guid: d1b79b1be5e2a4b438f6e9a8b33ed5a4, type: 2}
+  - {fileID: 11400000, guid: ac7546a7a4519b94babdbfa49c5777b3, type: 2}
+  - {fileID: 11400000, guid: 473dcb55040dfd144a45d3ec27643d82, type: 2}
+  mainframe_D02: []
+  mainframe_D03: []
+  mainframe_D04: []
+  mainframe_D05: []
+  mainframe_D06: []
+  powerStation_DXX:
+  - {fileID: 11400000, guid: 20ffdb90c8b4202408a737f7d8f1ceed, type: 2}
+  workszop_DXX:
+  - {fileID: 11400000, guid: bb493546763c3194bbeede3fa2aef778, type: 2}
+  market_D01:
+  - {fileID: 11400000, guid: 0dca792fa787b9c4b9e5065664f05010, type: 2}
+  - {fileID: 11400000, guid: 6e26664b42cb6e8468ddcd317f6d1d77, type: 2}
+  market_D02: []
+  market_D03: []
+  market_D04: []
+  market_D05: []
+  market_D06: []

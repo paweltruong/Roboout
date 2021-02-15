@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5878a2f437a6bb44c949695d451cb25b, type: 3}
+  m_Name: M01_EB10
+  m_EditorClassIdentifier: 
+  config: 0
+  isRandom: 1
+  minDifficulty: 3
+  maxDifficulty: 4
+  Unlockers:
+  - {fileID: 11400000, guid: 6dfc7b99e1db1b74ba34a8dc8031216b, type: 2}
+  - {fileID: 11400000, guid: 627e7c62123c0a54494f9bcbeee7ff92, type: 2}

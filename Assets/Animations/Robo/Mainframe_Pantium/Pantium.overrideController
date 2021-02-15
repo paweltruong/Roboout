@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pantium
+  m_Controller: {fileID: 9100000, guid: f5f06c79f7b8db94e8b9357b64ebdd4f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 314e4bb99c6310044894024395b02536, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 469c5d61c33b3e749b4f771d7d2063aa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d2cc4c803009bc24b9e3e0c046e4d837, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a149bebfb2369244aa5606ae64f1fd4d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a07c25203eebf241a20dbbade5fea52, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e84f1bf347e543d40a9a0dd976d94a01, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7f302df5382ffa348b8ced282b255bdf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c4641f9d534b143478a7c929ad8e4c82, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ee056d089438904bac4966bb5dbc423, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a149bebfb2369244aa5606ae64f1fd4d, type: 2}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b55f7ddbdc6ea7540b7e0d44117ee850
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Menu: {instanceID: 0}
+  - PersitentMusic: {instanceID: 0}
+  - PersistentSoundFX: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: 983267dbabaa0074bb43b4448d31f582, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
